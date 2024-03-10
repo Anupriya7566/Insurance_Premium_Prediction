@@ -2,7 +2,7 @@
 
 Webapp Link:
 ```
-https://subhashdixit-insurance-prediction-app-t93foa.streamlit.app/
+https://anupriya-insurance-premium-prediction-t93foa.streamlit.app/
 ```
 Step 1 - Install the requirements
 ```
